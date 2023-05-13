@@ -7,10 +7,16 @@
 - Amo ***<img height="15" src="./img/strawhat.png">One piece***, ***<img height="15" src="./img/deathstar.png">Star Wars*** e outras diversas coisas
 - Faço parte da [CeosJr](https://www.ceosjr.com/), empresa júnior do meu curso
 ---
-#### Em que linguagens programo?
+#### Em que linguagens eu programo?
 - <img height="15" src="./img/C.png"> C
 - <img height="15" src="./img/python.png"> Python
 - <img height="15" src="./img/java.png"> Java
 - <img height="15" src="./img/react.png"> React js
+---
+<div>
+  <a href="https://github.com/ArtroxGabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtroxGabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtroxGabriel&layout=compact&langs_count=10&theme=dark"/>
+</div>
 
 #### _May the force be with you_
