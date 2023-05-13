@@ -19,4 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtroxGabriel&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
+![Snake animation](https://github.com/rafaballerini2/ArtroxGabriel/blob/output/github-contribution-grid-snake.svg)  
+  
 #### _May the force be with you_
