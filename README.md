@@ -8,10 +8,10 @@
 - Faço parte da [CeosJr](https://www.ceosjr.com/), empresa júnior do meu curso
 ---
 #### Em que linguagens eu programo?
-- <img height="15" src="./img/C.png"> C
-- <img height="15" src="./img/python.png"> Python
-- <img height="15" src="./img/java.png"> Java
-- <img height="15" src="./img/react.png"> React js
+- <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c%2B%2B&" alt="c Badge" height="25">&nbsp;
+- <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+- <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=Java&logoColor=white" alt="java Badge" height="25">&nbsp;
+- <img src="https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react&logoColor=white">
 ---
 <div>
   <a href="https://github.com/ArtroxGabriel">
