@@ -2,7 +2,7 @@
 ### Welcome to my github profile<img height="15" src="./img/github.png">
 ---
 #### about me:
-- I'm a computer science student  at ***UFC***( Universidade Federal do Ceará).
+- I'm a Computer Science student  at ***UFC***( Universidade Federal do Ceará).
 - Computer Technician by integrated teaching (high school + technical) at [EEEP Edson Queiroz](https://www.instagram.com/edsonqueiroz_eeep/)
 - i love ***<img height="15" src="./img/strawhat.png">One piece***, ***<img height="15" src="./img/deathstar.png">Star Wars*** and other miscellaneous things.
 - I'm part of [CeosJr](https://www.ceosjr.com/), junior company of my course
