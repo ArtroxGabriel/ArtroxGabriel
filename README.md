@@ -1,13 +1,13 @@
-## Ola, eu sou o Antonio Gabriel
-### seja bem vindo ao meu perfil no github<img height="15" src="./img/github.png">
+## Hello, I'm Antonio Gabriel
+### Welcome to my github profile<img height="15" src="./img/github.png">
 ---
-#### Sobre mim:
-- Sou estudante de Ciencia da Computação da ***UFC***( Universidade Federal do Ceará)
-- Técnico em Informática pelo ensino integrado ( ensino mdio + técnico) na [EEEP Edson Queiroz](https://www.instagram.com/edsonqueiroz_eeep/)
-- Amo ***<img height="15" src="./img/strawhat.png">One piece***, ***<img height="15" src="./img/deathstar.png">Star Wars*** e outras diversas coisas
-- Faço parte da [CeosJr](https://www.ceosjr.com/), empresa júnior do meu curso
+#### about me:
+- I'm a computer science student  at ***UFC***( Universidade Federal do Ceará).
+- Computer Technician by integrated teaching (high school + technical) at [EEEP Edson Queiroz](https://www.instagram.com/edsonqueiroz_eeep/)
+- i love ***<img height="15" src="./img/strawhat.png">One piece***, ***<img height="15" src="./img/deathstar.png">Star Wars*** and other miscellaneous things.
+- I'm part of [CeosJr](https://www.ceosjr.com/), junior company of my course
 ---
-#### Em que linguagens eu programo?
+#### What languages do I program in?
 - <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c%2B%2B&" alt="c Badge" height="25">&nbsp;
 - <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
 - <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=Java&logoColor=white" alt="java Badge" height="25">&nbsp;
