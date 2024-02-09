@@ -26,6 +26,8 @@
     </li>
     <li><img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=Java&logoColor=white" alt="java Badge" height="25">
     </li>
+    <li><img src="https://img.shields.io/badge/go-05122A?logo=go&logoColor=f5f5f5" alt="Golang Badge" height="25">
+    </li>
     </ul>
   <h4>Technologies:</h4>
   <ul style="list-style-type:circle;">
@@ -40,3 +42,4 @@
 <br>
   <code>May the force be with you</code>
 </body>
+
