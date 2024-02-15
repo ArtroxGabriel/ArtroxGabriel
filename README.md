@@ -20,18 +20,32 @@
 <div>
   <h4>What languages do I program in?</h4>
     <ul style="list-style-type:circle;">
-    <li><img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c%2B%2B&" alt="c Badge" height="25">
-    </li>
-    <li><img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">
-    </li>
-    <li><img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=Java&logoColor=white" alt="java Badge" height="25">
-    </li>
-    <li><img src="https://img.shields.io/badge/go-05122A?logo=go&logoColor=f5f5f5" alt="Golang Badge" height="25">
-    </li>
+      <li>
+        <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c%2B%2B&" alt="c Badge" height="25">
+      </li>
+      <li>
+        <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">
+      </li>
+      <li>
+        <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=Java&logoColor=white" alt="java Badge" height="25">
+      </li>
+      <li>
+        <img src="https://img.shields.io/badge/go-05122A?logo=go&logoColor=f5f5f5" alt="Golang Badge" height="25">
+      </li>
     </ul>
   <h4>Technologies:</h4>
   <ul style="list-style-type:circle;">
-    <li><img src="https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react&logoColor=white">
+    <li>
+      <img src="https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react&logoColor=white">
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/-nextjs-00599C?style=flat&logo=react&logoColor=white"/>
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+    </li>
+    <li>  
+      <img src="https://img.shields.io/badge/GitLab-E34F26?style=flat&logo=gitlab&logoColor=white"/>
     </li>
   </ul>
 </div>
