@@ -21,13 +21,13 @@
   <h4>What languages do I program in?</h4>
     <ul style="list-style-type:circle;">
       <li>
-        <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c%2B%2B&" alt="c Badge" height="25">
+        <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c Badge" height="25">
       </li>
       <li>
-        <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">
+        <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white" alt="python Badge" height="25">
       </li>
       <li>
-        <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=Java&logoColor=white" alt="java Badge" height="25">
+        <img src="https://img.shields.io/badge/Java-05122A?style=flat&logoColor=white" alt="Java Badge" height="25">
       </li>
       <li>
         <img src="https://img.shields.io/badge/go-05122A?logo=go&logoColor=f5f5f5" alt="Golang Badge" height="25">
