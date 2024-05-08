@@ -41,14 +41,14 @@
     <li>
       <img src="https://img.shields.io/badge/-nextjs-00599C?style=flat&logo=react&logoColor=white"/>
     </li>
+        <li>
+      <img src="https://img.shields.io/badge/spring-%236DB33F?style=flat&logo=spring&logoColor=white" />
+    </li>
     <li>
       <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
     </li>
     <li>  
       <img src="https://img.shields.io/badge/GitLab-E34F26?style=flat&logo=gitlab&logoColor=white"/>
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/spring-%236DB33F?style=flat&logo=spring&logoColor=white" />
     </li>
   </ul>
 </div>
