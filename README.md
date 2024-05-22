@@ -1,5 +1,6 @@
 <body>
-<h2 align="center">Welcome to my github profile<img height="15" src="./img/github.png"></h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=26&duration=10000&pause=1000&center=true&repeat=false&random=false&width=500&lines=Welcome+to+my+github+profile" alt="Typing SVG" />
 
 <div>
   <h4> About me:</h4>
@@ -58,5 +59,6 @@
 </div> 
 <br>
   <code>May the force be with you</code>
+  <p align="center"><img src="https://profile-counter.glitch.me/{ArtroxGabriel}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 </body>
 
