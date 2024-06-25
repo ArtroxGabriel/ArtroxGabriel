@@ -59,6 +59,5 @@
 </div> 
 <br>
   <code>May the force be with you</code>
-  <p align="center"><img src="https://profile-counter.glitch.me/{ArtroxGabriel}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
 </body>
 
