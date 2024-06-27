@@ -1,63 +1,40 @@
-<body>
+<!-- Typing SVG for animated welcome message -->
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=26&duration=10000&pause=1000&center=true&repeat=false&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!)
 
-<img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=26&duration=10000&pause=1000&center=true&repeat=false&random=false&width=500&lines=Welcome+to+my+github+profile" alt="Typing SVG" />
+## About Me
 
-<div>
-  <h4> About me:</h4>
-  <ul style="list-style-type:circle;">
-    <li>
-      My Name is Antonio Gabriel, i'm 20 years old.
-    </li>
-    <li>I'm a Computer Science student  at <b>UFC</b>( Universidade Federal do Ceará).</li>
-    <li>Computer Technician by integrated teaching (high school + technical) at <a href="https://www.instagram.com/edsonqueiroz_eeep/">EEEP Edson Queiroz</a></li>
-    <li>
-      i love <b><img height="15" src="./img/strawhat.png">One piece, <img height="15" src="./img/deathstar.png">Star Wars</b> and other miscellaneous things.
-    </li>
-    <li>
-      I'm part of <a href="https://www.ceosjr.com" target="_blank">CeosJr</a>, junior company of my course
-    </li>
-  </ul>
-</div>
-<div>
-  <h4>What languages do I program in?</h4>
-    <ul style="list-style-type:circle;">
-      <li>
-        <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c Badge" height="25">
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white" alt="python Badge" height="25">
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/Java-05122A?style=flat&logoColor=white" alt="Java Badge" height="25">
-      </li>
-      <li>
-        <img src="https://img.shields.io/badge/go-05122A?logo=go&logoColor=f5f5f5" alt="Golang Badge" height="25">
-      </li>
-    </ul>
-  <h4>Technologies:</h4>
-  <ul style="list-style-type:circle;">
-    <li>
-      <img src="https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react&logoColor=white">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/-nextjs-00599C?style=flat&logo=react&logoColor=white"/>
-    </li>
-        <li>
-      <img src="https://img.shields.io/badge/spring-%236DB33F?style=flat&logo=spring&logoColor=white" />
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-    </li>
-    <li>  
-      <img src="https://img.shields.io/badge/GitLab-E34F26?style=flat&logo=gitlab&logoColor=white"/>
-    </li>
-  </ul>
-</div>
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtroxGabriel&show_icons=true&theme=transparent&rank_icon=github" style="display: inline-block;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtroxGabriel&layout=compact&langs_count=5&theme=transparent" style="display: inline-block;" />
-</div> 
-<br>
-  <code>May the force be with you</code>
-</body>
+- 👋 Hi, my name is **Antonio Gabriel**, 20 years old, passionate about technology and fullstack developer.
+- 👨‍💻I'm a Computer Science student at **UFC** (Universidade Federal do Ceará).
+- 👨‍🎓Computer Technician by integrated teaching (*high school + technical*) at [**EEEP Edson Queiroz**](https://www.instagram.com/edsonqueiroz_eeep/)
+- 💞️ I love **One Piece <img height="15" src="./img/strawhat.png">, Star Wars <img height="15" src="./img/deathstar.png">** and other miscellaneous things.
+- ☁️I was a member of [**CeosJr**](https://www.ceosjr.com), the junior company of my course.
+- 🤙I worked on projects as a fullstack developer at [**GReat**](https://www.great.ufc.br/).
+- I'm currently using ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white) as OS and  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  as text editor.
 
+## What Languages Do I Program In?
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## Technologies
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtroxGabriel&show_icons=true&theme=transparent&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtroxGabriel&layout=compact&langs_count=5&theme=transparent)
+
+**`May the force be with you`**
