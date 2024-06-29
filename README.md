@@ -9,7 +9,7 @@
 - 💞️ I love **One Piece <img height="15" src="./img/strawhat.png">, Star Wars <img height="15" src="./img/deathstar.png">** and other miscellaneous things.
 - ☁️I was a member of [**CeosJr**](https://www.ceosjr.com), the junior company of my course.
 - 🤙I worked on projects as a fullstack developer at [**GReat**](https://www.great.ufc.br/).
-- I'm currently using ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white) as OS and  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  as text editor.
+- I'm currently using ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white) as OS and  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  as text editor, , **but** i'm practicing with nvim ![Neovim](https://img.shields.io/badge/NeoVim-23483699?&style=flat-square&logo=neovim&logoColor=white).
 
 ## What Languages Do I Program In?
 
