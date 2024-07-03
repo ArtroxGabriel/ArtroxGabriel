@@ -1,5 +1,5 @@
 <!-- Typing SVG for animated welcome message -->
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=26&duration=10000&pause=1000&center=true&repeat=false&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=50&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 ## About Me
 
