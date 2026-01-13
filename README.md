@@ -1,15 +1,16 @@
 <!-- Typing SVG for animated welcome message -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Micro+5&size=50&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 ## About Me
 
 - 👋 Hi, my name is **Antonio Gabriel**, 20 years old, passionate about technology and fullstack developer.
 - 👨‍💻I'm a Computer Science student at **UFC** (Universidade Federal do Ceará).
-- 👨‍🎓Computer Technician by integrated teaching (*high school + technical*) at [**EEEP Edson Queiroz**](https://www.instagram.com/edsonqueiroz_eeep/)
-- 💞️ I love **One Piece <img height="15" src="./img/strawhat.png">, Star Wars <img height="15" src="./img/deathstar.png">** and other miscellaneous things.
+- 👨‍🎓Computer Technician by integrated teaching (_high school + technical_) at [**EEEP Edson Queiroz**](https://www.instagram.com/edsonqueiroz_eeep/)
+- 💞️ I love **One Piece <img height="15" src="./profile/strawhat.png">, Star Wars <img height="15" src="./profile/deathstar.png">** and other miscellaneous things.
 - ☁️I was a member of [**CeosJr**](https://www.ceosjr.com), the junior company of my course.
 - 🤙I worked on projects as a fullstack developer at [**GReat**](https://www.great.ufc.br/).
-- I'm currently using ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white) as OS and  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)  as text editor, , **but** i'm practicing with nvim ![Neovim](https://img.shields.io/badge/NeoVim-23483699?&style=flat-square&logo=neovim&logoColor=white).
+- I'm currently using ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=Manjaro&logoColor=white) as OS and ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) as text editor, , **but** i'm practicing with nvim ![Neovim](https://img.shields.io/badge/NeoVim-23483699?&style=flat-square&logo=neovim&logoColor=white).
 
 ## What Languages Do I Program In?
 
@@ -18,7 +19,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 
 ## Technologies
 
