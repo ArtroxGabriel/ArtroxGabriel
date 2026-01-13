@@ -40,7 +40,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtroxGabriel&show_icons=true&theme=transparent&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtroxGabriel&layout=compact&langs_count=5&theme=transparent)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 **`May the force be with you`**
