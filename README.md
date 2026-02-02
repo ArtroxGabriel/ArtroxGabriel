@@ -43,4 +43,6 @@
 ![GitHub Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 
+![Commit Graph Space Invader](./generated/git_shooter.gif)
+
 **`May the force be with you`**
