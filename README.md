@@ -40,8 +40,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ArtroxGabriel&rank_icon=github&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=ArtroxGabriel&rank_icon=github&include_all_commits=true&theme=transparent)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=ArtroxGabriel&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=ArtroxGabriel&layout=compact&langs_count=6&theme=transparent)
 
 ![Commit Graph Space Invader](./generated/git_shooter.gif)
 
